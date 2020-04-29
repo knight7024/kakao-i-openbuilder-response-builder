@@ -13,3 +13,15 @@
 - Button 지원
 - Thumbnail 지원
 - QuickReplies 지원
+
+***version_1.1.0***
+
+`Changes`
+- 빌더 클래스 분리
+- CommerceCard 지원
+- Link 지원
+- Profile 지원
+
+`Bug Fixes`
+- 일부 불필요한 부분 제거
+- 잘못된 검증 수정
