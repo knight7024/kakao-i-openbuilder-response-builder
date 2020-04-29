@@ -156,3 +156,4 @@ $RECYCLE.BIN/
 
 # Custom
 src/main/java/com/test/domain/
+src/main/test/java/
